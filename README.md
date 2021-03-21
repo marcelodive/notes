@@ -1,2 +1,2 @@
-# instructions
-General instructions to myself
+# Notes
+General notes to myself
